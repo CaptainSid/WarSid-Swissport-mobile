@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Swissport</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="date_naissance">Date de naissance</string>
+    <string name="Sexe">Sexe</string>
+    <string name="fonction">Fonction</string>
+    <string name="telephone">Telephone</string>
+
+
+    <string name="prompt_password">Mot de passe </string>
+    <string name="prompt_password1">Ancien mot de passe </string>
+    <string name="prompt_password2">Nouveau mot de passe </string>
+    <string name="prompt_password3">Confirmer le mot de passe </string>
+    <string name="prompt_request">Ecrivez votre demande ici</string>
+    <string name="action_sign_in">Connexion</string>
+    <string name="action_sauvegarderMDP">Sauvegarder</string>
+    <string name="action_changerMDP">Changer mot de passe</string>
+    <string name="action_request">Faire une demande</string>
+    <string name="action_sendrRequest">Envoyer la demande</string>
+    <string name="action_sign_out">Déconnexion</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Cette adresse email est invalide</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+ <!-- Strings related to calendar -->
+    <string name="monday">LUN</string>
+    <string name="tuesday">MAR</string>
+    <string name="wednesday">MER</string>
+    <string name="thursday">JEU</string>
+    <string name="friday">VEN</string>
+    <string name="saturday">SAM</string>
+    <string name="sunday">DIM</string>
+    <string name="calendar_previous">previous</string>
+    <string name="calendar_next">next</string>
+    <string name="saved_event_image">saved event image</string>
+    <string name="action_agenda">Planning</string>
+    <string name="action_notification">Notifications</string>
+    <string name="action_compte">Mon Compte</string>
+
+</resources>

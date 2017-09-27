@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7f8c8d</color> <!-- juste en bas le nom de l'application -->
+    <!-- <color name="colorPrimaryDark">#303F9F</color>   <! le plus haut -->
+    <color name="colorPrimaryDark">#000000</color>   <!-- le plus haut -->
+    <color name="colorAccent">#be302d</color> <!-- je sais pas-->
+    <color name="clouds">#ecf0f1</color> <!-- couleur du background  #ecf0f1-->
+    <color name="gris_clair">#bdbdbd </color>
+    <color name="red">#be302d</color>
+    <color name="white">#ffffff</color>
+    <color name="gris">#424242</color>
+<!-- couleur du calendrier-->
+        <color name="calendar_month_text_color">#e23d1f</color>
+    <color name="calendar_day_text_color">#7f8c8d</color>
+    <color name="calendar_current_number_text_color">#2c3e50</color>
+    <color name="calendar_number_text_color">#ff000000</color>
+    <color name="current_day_selector_color">#7f8c8d</color>
+    <color name="saved_event_selector_color">#e23d1f</color>
+    <color name="saved_events_empty_color">#7f8c8d</color>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.swissport.www.swissport.ChangePassActivity">
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="@string/action_sign_out"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_notification"
+        android:orderInCategory="10"
+        android:title="@string/action_notification"
+        android:icon="@drawable/ic_action_notif"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_agenda"
+        android:orderInCategory="20"
+        android:title="@string/action_agenda"
+        android:icon="@drawable/ic_action_planning"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_request"
+        android:orderInCategory="40"
+        android:title="@string/action_request"
+        android:icon="@drawable/user"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_compte"
+        android:orderInCategory="40"
+        android:title="@string/action_compte"
+        android:icon="@drawable/user"
+        app:showAsAction="ifRoom" />
+</menu>
